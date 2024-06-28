@@ -6,6 +6,7 @@ Our crew starts out on Atarabete. Each crew member chips in Cr15,000 for the shi
 | Tauradia | D        |   14    |        0        |       1        |       7        |
 | Sund     | E        |    5    |        0        |       2        |       0        |
 | Sellarne | E        |    5    |        0        |       2        |       1        |
+
 So I guess we're going to Tauradia! We are taking 14 tons of Freight, 1 Mid passenger, and 7 Low passengers. That should be a total of Cr29,000 upon arrival (assuming all 7 low passengers make it).
 
 Law level of 9, and we roll 2D6 trying to get above that to avoid encounters with law enforcement. We roll `[2d6: 8]`, so we fail. Let's roll on the NPC reaction to see what the officer's attitude towards us is. `[d6: 1]`: Hostile. This isn't good. Lady Elizabeth has `Advocate-1` and `Social Standing +1` so we're going to have her deal with the officer.
@@ -69,6 +70,7 @@ The Starport accepts delivery of the extra cargo, but they're not paying us sinc
 | Planet        | Freight (tons) | High Passengers | Mid Passengers | Low Passengers |
 | ------------- | -------------- | --------------- | -------------- | -------------- |
 | Atarabete (A) | 100            | 4               | 12             | 48             |
+
 Not bad at all! We can take 85 tons of cargo, and all 4 of the High passengers at single occupancy, and that leaves us 4 rooms for mid passengers. So we'll take 8 mid passengers at double occupancy. So if I'm doing my math right, that should be Cr177,000!
 
 Let's see if we avoid a law encounter, 2D6 and want above the law level. `[2d6: 10]` Awesome!
