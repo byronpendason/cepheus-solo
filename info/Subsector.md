@@ -1,4 +1,5 @@
-![[subsector_map.png]]
+![subsector_map.png](subsector_map.png "Subsector Map")
+
 ```
 @SUB-SECTOR: Atarabete SECTOR: Pipiristo
 # 
