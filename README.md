@@ -10,4 +10,4 @@ I have also created a document with info on [my subsector](/info/Subsector.md) t
 - [Session 1](/sessions/Session_01.md)
 
 # Updates
-- 2024-06-28 Starting with session 2, I'm going to write the story as prose fiction, and put gameplay mechanics and out of character chat in quoteblocks.
+- 2024-06-28 Starting with session 2, I'm going to write the sessions as prose fiction, and put gameplay mechanics and out of character chat in quoteblocks.
